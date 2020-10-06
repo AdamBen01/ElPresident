@@ -1,0 +1,54 @@
+Gondolatok:
+
+1. oldal
+	TD (Tower Defence) játék is RTS (Real Time Strategi) játék keverése.
+	Mindkét játék típusnak meg van a maga hibái.(Tower Defence egy idő után ellehetetlenedik a nehézség fokozatos növelésével, az RTS meg túl könnyűvé válik egy idő után miután kiépítettük az infrastruktúránkat.)
+	a két világot ha megfelelően ötvözzük egy jól balancolt folyamatos kihívást jelentő játékot alkothatunk.
+	ahol a nehézség nem abból származik hogy erőssebbek az ellenfeleink hanem hogy gyakran változnak a felmerülő problémák így gyorsan kell adaptálnunk.
+2. oldal
+	hogyan ötvözzük a két játék típust és mért.
+	a két játék típusnak vannak közös pontjai alapból, felső nézet, építkezés, a bázis védelme a be érkező ellenfelek ellen, erőforrások gyüjtése(kell  az építkezéshez.)
+	a külömbség a két játék típus között hogy míg a TD-ben a beérkező ellenfelekből szerezzük az erőforrásainkat addig az RTS-ben általunk épített egységek és építmények generálják (pl vasbánya, és bányászok)
+	a két játék típus fent említett problémái a is ezekből a külömbségekből származik(a TD egy idő után túl nehéz lessz, az RTS pedig túl könnyű)
+	így ezeket kellene kombinálnunk egy olyan rendszerbe ahol a a két rendszer kinullázzák egymás hibáit.
+	A TD rendszerét nem kell fellül írnunk, sőt nehezíthetűnk is rajta hogy az ellehetetlenedés szintje hamarabb érje a játékost. azonban az RTS Rendszerén keresztül a játékos extra erőforrásra tehet szert az épuletein és egységein keresztül hogy kipítolja a TD rendszer áltaé generált erőforrás hiányt.
+3. oldal
+	Hogy fog kinézni gyakorlatban?
+	kinézetre a játéknak TD kinézete lessz. felismerhető lessz az ellenfél kiindulási pontja  az utvonala és a bázisunk amit meg kell védeni. építkezni elöre megszabott helyekre lehet majd(azonban hogy egy adott helyre milyen építményt lehet építeni nem lessz meg szabva.)
+	azonban az építmények között nem csak a védelmi tornyok lesznek. lesznek generátorok külömböző típusban és erőben. melyeket rá kell majd csatlakoztatni a tornyokra hogy a tornyok müködhessenek. Ha azonban a generátor ereje nincs kihasználva 100% ig akkor a felhasználatlan erőforrást eltároljuk és felhasználhatjuk a késöbbi péítkezéshez.
+	szóval ha csak a tornyainkra támaszkodunk akkor nagyon gyorsan kifuthatunk az erőforrásból ami persze szükséges ujjabb tornyok építéséhez, viszont okossan elhelyezett generátorokkal tudunk elég erőforrást generálni extrába hogy tuléljunk.
+	Azonban a tornyokat se szeretnénk unalmasra tervezni több típusú torony lessz melyek más tipusu ellenfelek ellen lesznek hatékonyabbak, vagy gyengébbek.
+4. oldal
+	A játék egy steampunk világban játszódik (természetessen azért mert gépeket könnyebb modellezno mint élőlényeket XD).
+	Világunkban kitőr a robot felkelés, mivel egy unatkozo hacker aki még mindig az édesanyja pincéjében lakik 33 évessen meghackelte a robotok mikrovezérlőit hogy rabolják ki kedvenc gyorsétermét hogy rengeteg gyorskajája legyen.
+	Természetessen a gyorsétteremben dolgozók ezt nem vették jónéven, így felfegyverkeztek hogy megvédjék szeretett munkahelyüket.
+
+Amit a pptbe megy:
+
+1. oldal
+	TD Hibái:
+		- Monoton játék menet
+		- Végtelenségig nehezedő pályák
+		- Tartalom hiánya
+	RTS Hibái:
+		- CSak valódi játékosok ellen van kihívás a játékban
+		- Jól kiépített bázisok elveszik a kihívást a játékból
+	Ha megfelelően ötvözzük a két Típust akkor egy tartalmas jól balancolt játékot kaphatunk.
+2. oldal
+	Két játék típus hasonlóságai:
+		-felső nézet
+		-bázis amit meg kell védeni
+		-építmények melyekkel a bázist megvédhetjük
+	Két játék típus külömbsége:
+		-TD-ben akkor jutunk erőforráshoz ha legyöztunk egy hullámnyi ellenfelet
+		-RTS-ben akkro jutunk erőforráshoz ha építünke egy épületet ami generálja azt.
+	A fent említett külömbségek egyben a két stílus legnagyobb hibái, így ha ezeket a részeket ötvözzük akkor egy jol balancolt tartalmas játékot kaphatunk.
+3. oldal
+	Hogyan is ötvözzük:
+		-A tornyokon túl, építhetünk generátorokat melyek elsődleges célja a tornyok energia ellátása, valamint ha nem 100% os energia felhasználtsága akkor a külömbséget újra lehet hasznosítani későbbi időkben.
+		-A tornyoknak is lessznek egyéb funkciói azon túl hogy megvédenek az ellenségektől. mint például egy sinen mozgatható torony.
+
+4. oldal
+	A egy Steampunk világban játszódik, és az ellenfelek robotok akik meg probálják kirabolni a gyorséttermet amit nekünk kell megvédenünk.
+	(A robotok nem gonoszak, csak meg hackelte őket egy hacker aki Nagyo szereti a gyorskaját.)
+	Nem lessz kidolgozott története a játéknak, azonban a térkép és az ellenségek modeljei össze fognak illeni.
