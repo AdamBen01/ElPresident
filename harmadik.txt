@@ -1,0 +1,38 @@
+1. dia
+
+Kiknek ajánljuk és miért?
+
+Minden RTS és tower defence kedvelő számára ajánlott a játék, mivel a két műfaj előnyös tulajdonságait ötvözi.
+Aki még nem próbálta a két műfajt az is nyugodt szívvel kipróbálhatja, mivel egyedi és új elemeket egyaránt tartalmaz.
+Összetett játékmenettel rendelkezik, ennek ellenére nem túl bonyolult.
+
+2. dia
+
+Miért egyedi?
+
+- Új stratégiai elemek
+	...az ellenfél több útvonalon támadhat,
+		minden pályán legalább két lehetséges útvonal,
+		a rendszer megfigyeli melyiken van gyengébb védelem
+	...az ellenfél tanul az építési stílusodból,
+		bizonyos tornyok bizonyos ellenfelek ellen hatékonyabbak,
+		a rendszer próbál olyan ellenfelet küldeni amit a kiépített tornyokkal nehezebb legyőzni
+	...speciális mobilis építmények,
+		a sínen mozgatható tornyok nagyobb energia szükséglettel rendelkeznek
+	...védekező objektumok erőforrásigénnyel rendelkeznek,
+		ha nem megfelelő az energiaellátás pl. 80%, akkor a torony hatékonysága is csak 80%,
+		a mobilis objektumok energia hiáynában nem mozognak
+
+3. dia
+
+A projekt jövője
+
+Irányítás mozgással
+	...vezérlés interaktívan
+	   ...kinect v2, a mindenki által ismert szenzoros eszköz,
+	       ami egész testes mozgást figyel, ezáltal gyorsabb reagálást tesz lehetővé a tobii eye 4c -vel szemben
+	   ...tobii eye 4c, szemmel történő irányítást tesz lehetővé, pl. 2 másodpercig egy pontra fókuszálás megfelel egy kattintásnak,
+	       emiatt lassabb lesz a játék közbeni reakció idő a felhasználó részéről
+
+4.dia
+Köszönjük a figyelmet!
