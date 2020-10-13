@@ -2,12 +2,12 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour {
 
-	public float panSpeed = 30f;
+	public float panSpeed = 50f;
 	public float panBorderThickness = 10f;
 
 	public float scrollSpeed = 5f;
 	public float minY = 10f;
-	public float maxY = 80f;
+	public float maxY = 15f;
 
 	// Update is called once per frame
 	void Update () {
@@ -41,6 +41,8 @@ public class CameraController : MonoBehaviour {
 
 		pos.y -= scroll * 1000 * scrollSpeed * Time.deltaTime;
 		pos.y = Mathf.Clamp(pos.y, minY, maxY);
+		pos.z = Mathf.Clamp(pos.z, -85f, 0f);
+		pos.x = Mathf.Clamp(pos.x, 0f, 85f);
 
 		transform.position = pos;
 

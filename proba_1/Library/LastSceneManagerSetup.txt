@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: C:/Users/Tibor/Desktop/Szoft_fejlesztes/ElPresident/Tower-Defense-Tutorial-master/Tower
+    Defense Unity Project/Assets/MainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
